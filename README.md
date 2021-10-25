@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @luigimicco
+- 👀 I’m interested in whatching tv movies and coding
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on a flutter projet to test my skill 
+- 📫 How to reach me: luigi(dot)micco(at)gmail(dot)com
+
+<!---
+luigimicco/luigimicco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
