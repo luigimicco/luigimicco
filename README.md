@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @luigimicco
 - 👀 I’m interested in whatching tv movies and coding
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on a flutter projet to test my skill 
+- 💞️ I’m looking to collaborate on a flutter projet to test my skills 
 - 📫 How to reach me: luigi(dot)micco(at)gmail(dot)com
 
 <!---
