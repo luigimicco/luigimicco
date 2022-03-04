@@ -1,9 +1,9 @@
 <br />
 
 - 👋  Hi, I’m @luigimicco
-- 👀  I’m interested in whatching tv movies and coding
+- 👀  I’m interested in watching tv movies and coding
 - 🌱  I’m currently learning Flutter
-- 💞️  I’m looking to collaborate on a flutter projet to test my skills 
+- 💞️  I’m looking to collaborate on a flutter project to test my skills 
 - 💼  Do you want ask me something? I am happy to help. Any freelance work? Do you want contact me ?  [email](mailto:luigi.micco@gmail.com), [LinkedIn](https://www.linkedin.com/in/luigi-micco/), [Slack](https://join.slack.com/t/luigimicco/shared_invite/zt-10ulfkb43-ObGWUbgYh8m1kBsJXLWHtg)
 
 **LANGUAGES:** 
