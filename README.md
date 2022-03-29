@@ -5,6 +5,7 @@
 - 🌱  I’m currently learning Flutter
 - 💞️  I’m looking to collaborate on a flutter project to test my skills 
 - 💼  Do you want ask me something? I am happy to help. Any freelance work? Do you want contact me ?  [email](mailto:luigi.micco@gmail.com), [LinkedIn](https://www.linkedin.com/in/luigi-micco/), [Slack](https://join.slack.com/t/luigimicco/shared_invite/zt-10ulfkb43-ObGWUbgYh8m1kBsJXLWHtg)
+- I don't code for fun, I code for fun projects. If you think you have an interesting project where you could involve me, please get in touch.
 
 **LANGUAGES:** 
 
