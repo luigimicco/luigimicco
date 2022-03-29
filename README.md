@@ -42,7 +42,7 @@
 <br />
 <p><img width='600' src="https://github-readme-stats.vercel.app/api?username=luigimicco&show_icons=true&theme=gotham" alt="luigimicco" /></p>
 
-[![GitHub abdullahonus](https://img.shields.io/github/followers/luigimicco?label=follow&style=social)](https://github.com/luigimicco)
+![](https://img.shields.io/github/followers/luigimicco?label=follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=luigimicco.luigimicco)  
 
 
