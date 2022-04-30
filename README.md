@@ -36,6 +36,7 @@
 ![](https://img.shields.io/badge/Androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
+![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 <br />
 <p><img width='600' src="https://github-readme-stats.vercel.app/api/top-langs?username=luigimicco&show_icons=true&locale=en&layout=compact" alt="luigimicco" /></p>
