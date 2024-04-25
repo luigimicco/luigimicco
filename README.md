@@ -31,7 +31,9 @@ I don't code for fun, I code for fun projects. If you think you have an interest
 ![](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
 
 **TOOLS:** 
-![](https://img.shields.io/badge/Composer-F05032?style=for-the-badge&logo=composer&logoColor=white)
+
+![](https://img.shields.io/badge/NodeJS-0769AD?style=for-the-badge&logo=nodejs&logoColor=white)
+![](https://img.shields.io/badge/Composer-7952B3?style=for-the-badge&logo=composer&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![](https://img.shields.io/badge/Visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
