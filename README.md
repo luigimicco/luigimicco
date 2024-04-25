@@ -10,6 +10,7 @@ I don't code for fun, I code for fun projects. If you think you have an interest
 
 **LANGUAGES:** 
 
+![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![](https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
