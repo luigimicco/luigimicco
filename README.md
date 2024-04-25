@@ -32,7 +32,7 @@ I don't code for fun, I code for fun projects. If you think you have an interest
 
 **TOOLS:** 
 
-![](https://img.shields.io/badge/Node.js-0769AD?style=for-the-badge&logo=nodejs&logoColor=white)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/Composer-7952B3?style=for-the-badge&logo=composer&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
