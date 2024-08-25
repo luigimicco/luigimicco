@@ -47,7 +47,7 @@ I don't code for fun, I code for fun projects. If you think you have an interest
 <br />
 <p><img width='600' src="https://github-readme-stats.vercel.app/api/top-langs?username=luigimicco&count_private=true&show_icons=true&locale=en&layout=compact" alt="luigimicco" /></p>
 <br />
-<p><img width='600' src="https://github-readme-stats.vercel.app/api?username=luigimicco&show_icons=true&theme=gotham" alt="luigimicco" /></p>
+<p><img width='600' src="https://github-readme-stats.vercel.app/api?username=luigimicco&count_private=true&show_icons=true&theme=gotham" alt="luigimicco" /></p>
 
 ![](https://img.shields.io/github/followers/luigimicco?label=follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=luigimicco.luigimicco)  
