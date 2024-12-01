@@ -53,6 +53,22 @@ I don't code for fun, I code for fun projects. If you think you have an interest
 ![](https://visitor-badge.glitch.me/badge?page_id=luigimicco.luigimicco)  
 
 <!-- blog-post-list:start -->
+## Il blog di Luigi Micco
+
+
+
+[Read more](https://luigimicco.blogspot.com/)
+> Last updated: Sunday, December 1, 2024 at 8:54:36 AM
+
+> Showing 5 of 25 posts.
+
+[![Flock è il nuovo Flutter ?](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Flock_è_il_nuovo_Flutter__.svg)](https://luigimicco.blogspot.com/2024/11/flock-e-il-nuovo-flutter.html)
+[![Project IDX + node + php + mysql: un ambiente di sviluppo completo per progetti Laravel](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Project_IDX_+_node_+_php_+_mysql__un_ambiente_di_sviluppo_completo_per_progetti_Laravel.svg)](https://luigimicco.blogspot.com/2024/10/project-idx-node-php-mysql-un-ambiente.html)
+[![Flutter: labirinti e pathfinding - Parte 2](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Flutter__labirinti_e_pathfinding_-_Parte_2.svg)](https://luigimicco.blogspot.com/2024/07/flutter-labirinti-e-pathfinding-parte-2.html)
+[![Flutter: labirinti e pathfinding - Parte 1](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Flutter__labirinti_e_pathfinding_-_Parte_1.svg)](https://luigimicco.blogspot.com/2024/06/flutter-labirinti-e-pathfinding-parte-1.html)
+[![Github: deploy automatico sul push con accesso FTP](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Github__deploy_automatico_sul_push_con_accesso_FTP.svg)](https://luigimicco.blogspot.com/2024/05/github-deploy-automatico-sul-push-con.html)
+
+
 <!-- blog-post-list:end -->
 
 
