@@ -15,6 +15,7 @@ jobs:
           feed_urls: https://luigimicco.blogspot.com/feeds/posts/default
           show_post_count: false
           show_last_updated_date: false
+          show_read_more: false
       - name: Commit changed files
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
