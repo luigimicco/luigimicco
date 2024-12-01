@@ -52,6 +52,9 @@ I don't code for fun, I code for fun projects. If you think you have an interest
 ![](https://img.shields.io/github/followers/luigimicco?label=follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=luigimicco.luigimicco)  
 
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
+
 
 <!---
 luigimicco/luigimicco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
