@@ -2,8 +2,8 @@
 
 - 👋  Hi, I’m @luigimicco
 - 👀  I’m interested in watching tv movies and coding
-- 🌱  I’m currently learning Flutter
-- 💞️  I’m looking to collaborate on a flutter project to test my skills 
+- 🌱  I'm currently learning Flutter, but without leaving other languages ​​behind
+- 💞️  I am looking for a (large) Flutter project to test and improve my skills
 - 💼  Do you want ask me something? I am happy to help. Any freelance work? Do you want contact me ? [Telegram](https://t.me/luigimicco), [LinkedIn](https://www.linkedin.com/in/luigi-micco/), [Slack](https://join.slack.com/t/luigimicco/shared_invite/zt-10ulfkb43-ObGWUbgYh8m1kBsJXLWHtg).
 
 I don't code for fun, I code for fun projects. If you think you have an interesting project where you could involve me, please get in touch.
@@ -54,8 +54,6 @@ I don't code for fun, I code for fun projects. If you think you have an interest
 
 <!-- blog-post-list:start -->
 ## Il blog di Luigi Micco
-
-
 
 [![Flock è il nuovo Flutter ?](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Flock_è_il_nuovo_Flutter__.svg)](https://luigimicco.blogspot.com/2024/11/flock-e-il-nuovo-flutter.html)
 [![Project IDX + node + php + mysql: un ambiente di sviluppo completo per progetti Laravel](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Project_IDX_+_node_+_php_+_mysql__un_ambiente_di_sviluppo_completo_per_progetti_Laravel.svg)](https://luigimicco.blogspot.com/2024/10/project-idx-node-php-mysql-un-ambiente.html)
