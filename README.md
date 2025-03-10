@@ -57,11 +57,11 @@ I don't code for fun, I code for fun projects. If you think you have an interest
 
 
 
+[![Usare Docker per una applicazione Laravel](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Usare_Docker_per_una_applicazione_Laravel.svg)](https://luigimicco.blogspot.com/2025/03/usare-docker-per-laravel.html)
 [![Un server Http in Dart](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Un_server_Http_in_Dart.svg)](https://luigimicco.blogspot.com/2025/01/un-server-http-in-dart.html)
 [![Flutter, Sierpiński e i frattali](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Flutter__Sierpiński_e_i_frattali.svg)](https://luigimicco.blogspot.com/2025/01/flutter-sierpinski-e-i-frattali.html)
 [![Usare le API per interrogare un Google Sheet](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Usare_le_API_per_interrogare_un_Google_Sheet.svg)](https://luigimicco.blogspot.com/2024/12/usare-le-api-per-interrogare-un-google-sheet.html)
 [![Flock è il nuovo Flutter ?](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Flock_è_il_nuovo_Flutter__.svg)](https://luigimicco.blogspot.com/2024/11/flock-e-il-nuovo-flutter.html)
-[![Project IDX + node + php + mysql: un ambiente di sviluppo completo per progetti Laravel](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Project_IDX_+_node_+_php_+_mysql__un_ambiente_di_sviluppo_completo_per_progetti_Laravel.svg)](https://luigimicco.blogspot.com/2024/10/project-idx-node-php-mysql-un-ambiente.html)
 
 
 <!-- blog-post-list:end -->
