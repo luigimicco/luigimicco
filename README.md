@@ -31,6 +31,7 @@ I don't code for fun, I code for fun projects. If you think you have an interest
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white)
 ![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white)
+![](https://img.shields.io/badge/MAUI-FF2D20?style=for-the-badge&logo=maui&logoColor=white)
 
 **TOOLS:** 
 
@@ -40,6 +41,7 @@ I don't code for fun, I code for fun projects. If you think you have an interest
 ![](https://img.shields.io/badge/Visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![](https://img.shields.io/badge/Androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![](https://img.shields.io/badge/XCode-7952B3?style=for-the-badge&logo=xcode&logoColor=white)
 ![](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
