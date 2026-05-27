@@ -60,11 +60,11 @@ I don't code for fun, I code for fun projects. If you think you have an interest
 
 
 
+[![OpenCode: una valida alternativa open source per il coding agentico](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/OpenCode__una_valida_alternativa_open_source_per_il_coding_agentico.svg)](https://luigimicco.blogspot.com/2026/05/opencode-una-valida-alternativa-open.html)
 [![Flutter: un clone di Pong (senza AI)](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Flutter__un_clone_di_Pong_(senza_AI).svg)](https://luigimicco.blogspot.com/2025/06/flutter-un-clone-di-pong-senza-ai.html)
 [![Usare Docker per una applicazione Laravel](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Usare_Docker_per_una_applicazione_Laravel.svg)](https://luigimicco.blogspot.com/2025/03/usare-docker-per-laravel.html)
 [![Un server Http in Dart](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Un_server_Http_in_Dart.svg)](https://luigimicco.blogspot.com/2025/01/un-server-http-in-dart.html)
 [![Flutter, Sierpiński e i frattali](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Flutter__Sierpiński_e_i_frattali.svg)](https://luigimicco.blogspot.com/2025/01/flutter-sierpinski-e-i-frattali.html)
-[![Usare le API per interrogare un Google Sheet](https://raw.githubusercontent.com/luigimicco/luigimicco/main/blog-post-list-output/Il_blog_di_Luigi_Micco/Usare_le_API_per_interrogare_un_Google_Sheet.svg)](https://luigimicco.blogspot.com/2024/12/usare-le-api-per-interrogare-un-google-sheet.html)
 
 
 <!-- blog-post-list:end -->
